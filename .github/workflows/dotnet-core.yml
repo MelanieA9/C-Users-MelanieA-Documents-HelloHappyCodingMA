@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ master ]
 env:
-  AZURE_WEBAPP_NAME: C-Users-MelanieA-Documents-HelloHappyCodingMA   # set this to your application's name
+  AZURE_WEBAPP_NAME: HelloHappyCodingMA   # set this to your application's name
 
 jobs:
   build-and-deploy:
