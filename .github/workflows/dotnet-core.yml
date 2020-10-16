@@ -7,7 +7,7 @@ on:
     branches: [ master ]
 
 env:
-  AZURE_WEBAPP_NAME: HelloHappyCodingMM    # set this to your application's name
+  AZURE_WEBAPP_NAME: HelloHappyCodingMA    # set this to your application's name
 
 
 jobs:
